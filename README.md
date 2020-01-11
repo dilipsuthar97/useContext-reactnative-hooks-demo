@@ -1,6 +1,6 @@
 # useContext-ReactNative-hooks-demo
 This is a simple blog app which show you a list of dummy blogs. The main point in this on which i focused is a useContext hooks function which I used in this demo project.
-Learn more about hooks and see how to setup project on your machine below :point_down:
+Learn more about hooks and see how to setup project on your machine below :point_down::point_down:
 
 ![Status](https://img.shields.io/badge/status-online-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-Apache-teal?logo=apache)](https://github.com/dilipsuthar1997/MaterialColor/blob/master/LICENSE.txt)
@@ -14,13 +14,14 @@ Learn more about hooks and see how to setup project on your machine below :point
 ## Hooks
 Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
 React with Hooks Video (https://youtu.be/dpw9EHDh2bM)
-List of all Hooks functions
+
+#### List of all Hooks functions
 1. **useState**
 2. **useReducer**
 3. **useContext** *-used in this project*
 
 ## useContext
-Sample code `const value = useContext(MyContext);`
+Sample code `const value = useContext(MyContext);`. 
 Accepts a context object (the value returned from React.createContext) and returns the current context value for that context. The current context value is determined by the value prop of the nearest <MyContext.Provider> above the calling component in the tree.
 
 When the nearest <MyContext.Provider> above the component updates, this Hook will trigger a rerender with the latest context value passed to that MyContext provider. Even if an ancestor uses React.memo or shouldComponentUpdate, a rerender will still happen starting at the component itself using useContext.
