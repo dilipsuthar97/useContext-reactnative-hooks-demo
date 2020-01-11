@@ -1,0 +1,83 @@
+[
+    {
+        "id": "6MKgDczogG",
+        "title": "Ultimate Guide To All 9 Standard HTTP Methods",
+        "description": "We tend to take HTTP methods for granted. In the API development space, methods are akin to the alphabet – often used, seldom considered. API developers typically use GET, PUT, and POST, but there are actually 9 standard HTTP verbs, each providing a method for powerful interactions.",
+        "owner": "Kristopher Sandoval",
+        "date_by": "January 9, 2020",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Ultimate-Guide-To-All-9-Standard-HTTP-Methods-750x300.png"
+    },
+    {
+        "id": "wbllXBudA5",
+        "title": "Conway’s Law: What Does It Mean for Your API Strategy?",
+        "description": "Back in October, I attended the 2019 Nordic APIs Platform Summit in Stockholm, Sweden. Among a whole host of interesting topics, one idea that kept creeping up was that of Conway’s Law, like in Zdenek Nemec’s talk on choosing an API style.",
+        "owner": "Thomas Bush",
+        "date_by": "January 8, 2020",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Conways-Law-What-Does-It-Mean-for-Your-API-Strategy--750x300.png"
+    },
+    {
+        "id": "SDmN6ORTXO",
+        "title": "The 6 Best Real Estate APIs",
+        "description": "Real estate is a quickly changing industry. It depends on up-to-date data more so than nearly any other vertical, apart from maybe finance. As properties are sold, listings vanish in the blink of an eye. If a real estate agent or app has too many dead listings, customers will quickly grow impatient and move along.",
+        "owner": "J. Simpson",
+        "date_by": "January 7, 2020",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/The-6-Best-Real-Estate-APIs-750x300.png"
+    },
+    {
+        "id": "6tmgxdZWtX",
+        "title": "Review of Postwoman",
+        "description": "API testing is of prime importance – few would underappreciate this step of the development process. As such, the availability of tools for testing, refining, and development is wide and ever-changing.",
+        "owner": "Kristopher Sandoval",
+        "date_by": "December 19, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Review-of-Postwoman-open-source-API-request-builder-1-750x300.png"
+    },
+    {
+        "id": "Mi6sdC0Ddm",
+        "title": "Hiding and Securing Your API Keys",
+        "description": "API keys are both incredibly powerful and extremely vulnerable. API key exposure can result in significant damage, both to a company and to the data it holds. As such, hiding and securing keys (as well as mitigating potential loss) is critical for any security plan in the modern API space.",
+        "owner": "Kristopher Sandoval",
+        "date_by": "December 18, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Hiding-and-Securing-Your-API-Keys-750x300.png"
+    },
+    {
+        "id": "HAMZDzVfxu",
+        "title": "8 APIs For Two-Factor Authentication",
+        "description": "Every year we see more and more high-profile data breaches. In 2019, companies reported over 3,800 data breaches, and 4.1 billion records were accessed. These included records from major financial institutions. With so much of our daily lives and business transactions occurring online, cybersecurity threats can be devastating for customers and costly for corporations.",
+        "owner": "J. Simpson",
+        "date_by": "December 17, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/8-APIs-For-Two-Factor-Authentication-750x300.png"
+    },
+    {
+        "id": "NAsbohLjLU",
+        "title": "Tips for Starting a Partner Developer Program",
+        "description": "Partner programs are hotter than ever in the tech space. By collaborating with third-party service providers, development houses, and individual app developers, you can build powerful, mutually beneficial relationships. Whether you’re looking to develop new revenue streams or increase the value provided by your core offering, a partner program is seriously worth considering.",
+        "owner": "Thomas Bush",
+        "date_by": "December 12, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Tips-for-Starting-a-Partner-Developer-Program-750x300.jpg"
+    },
+    {
+        "id": "4AvWggUUqO",
+        "title": "13 Frameworks for Building APIs in Elixir",
+        "description": "Elixir is, at its heart, a language based upon the idea of extensible design – it’s no surprise, then, that there’s a bevy of additional frameworks designed to provide more extensibility, more capability, and more efficiency. Today, we’re going to take a look at some of those frameworks, and look at what they do.",
+        "owner": "Kristopher Sandoval",
+        "date_by": "December 11, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/13-Frameworks-for-Building-APIs-in-Elixir-750x300.png"
+    },
+    {
+        "id": "6jyFXspnN2",
+        "title": "5 Examples of APIs We Use in Our Everyday Lives",
+        "description": "APIs — that is, Application Programming Interfaces — play a bigger role in today’s economy than ever before. They allow us to share important data and expose practical business functionality between devices, applications, and individuals. And although we may not notice them, APIs really are everywhere, powering our lives from behind the scenes.",
+        "owner": "Thomas Bush",
+        "date_by": "December 10, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/4-Examples-of-APIs-We-Use-in-Our-Everyday-Lives-750x300.jpg"
+    },
+    {
+        "id": "ggGPxRkkac",
+        "title": "How to Build a Telegram Bot Using PHP in Under 30 Minutes",
+        "description": "Telegram is a popular instant messaging service that prides itself on security. It has all of the features you would expect from a modern chat platform, including chatbots: software-based agents that you can program to read and respond to other users’ messages.",
+        "owner": "Thomas Bush",
+        "date_by": "December 5, 2019",
+        "image_url": "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/How-to-Build-Your-First-Telegram-Bot-Using-PHP-in-Under-30-Minutes-1-750x300.png"
+    }
+
+]
