@@ -37,11 +37,11 @@ When the nearest <MyContext.Provider> above the component updates, this Hook wil
   2. If not follow guide (https://facebook.github.io/react-native/docs/getting-started)
 7. After all this execute command `npm start`
   1. It will start Metro builder in your browser
-  2. When you see **Tunnel ready.** log in your metro builder connect device OR open **simulator/emulator**
+  2. When you see **Tunnel ready** log in your metro builder connect device OR open **simulator** for macOS or **emulator** for Windows.
   3. press `a` in command prompt.
 8. And woila All done...! :smile:
 
-## Support Development
+## Support Development ☕
 <a href="https://www.buymeacoffee.com/dilipsuthar97">
     <img src="https://raw.githubusercontent.com/ravjanisz/imagecrypt/master/docs/assets/bmc.png" alt="Buy me a coffee ☕">
 </a>
